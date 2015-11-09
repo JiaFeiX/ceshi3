@@ -19,6 +19,12 @@ pip install -r requirements.txt --allow-all-external
 gunicorn hello:app --log-file - --access-logfile - --error-logfile -
 ```
 
+
+## 演示地址
+
+[http://pyhello.acyun.org/](http://pyhello.acyun.org/)
+
+
 ## 交流群
 
 【WEB和云计算技术交流群】QQ群： 229593086
